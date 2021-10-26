@@ -7,3 +7,10 @@ Step 4: Order the pizza
 Step 5: Wait for Delivery
 Step 6: Greet Delivery driver
 Step 7: See step 4b if necessary
+If we pay over the phone and provide payment info
+  -wait for Delivery
+  -tip the driver
+If we are going to pay at the door
+  -wait for Delivery
+  -pay for the pizza
+  -Tip the driver
